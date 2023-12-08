@@ -1,0 +1,18 @@
+C:\Users\Toshiba\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Toshiba\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Toshiba\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Toshiba\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Proyecto\JG Proyecto#3\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Proyecto\JG Proyecto#3\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Proyecto\JG Proyecto#3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Proyecto\JG Proyecto#3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Proyecto\JG Proyecto#3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Proyecto\JG Proyecto#3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Wall_E-JG_-master\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Wall_E-JG_-master\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Wall_E-JG_-master\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Wall_E-JG_-master\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Wall_E-JG_-master\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Wall_E-JG_-master\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
